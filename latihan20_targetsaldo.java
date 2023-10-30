@@ -1,4 +1,10 @@
 package tipedata;
+/*
+NAMA : Achmad Fatih Muzaqi
+NIM : 22205026
+PRIDI : Teknik Informatika
+DESKRIPSI : program ini Menghitung lama tabungan sampai mencapai saldo target
+*/
 import java.util.Scanner;
 import java.text.DecimalFormat;
 public class latihan20_targetsaldo {
